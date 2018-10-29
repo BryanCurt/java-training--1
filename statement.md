@@ -1,4 +1,3 @@
-title: java training -1
 # Welcome!
 
 This Java template lets you get started quickly with a simple one-page playground.
