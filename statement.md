@@ -1,5 +1,5 @@
 # Welcome!
-
+title: java training -1
 This Java template lets you get started quickly with a simple one-page playground.
 
 ```java runnable
