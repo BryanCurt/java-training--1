@@ -10,10 +10,10 @@ public static void main(String[] args) {
 // }
 
 ?[Comment ça ?]
--[x]oui
--[]quoi ?
--[]de ?
--[]trois
+-[x] oui
+-[] quoi ?
+-[] de ?
+-[] trois
 
 //{ autofold
 }
