@@ -9,11 +9,7 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-?[Comment ça ?]
--[x] oui
--[] quoi ?
--[] de ?
--[] trois
+System.out.println("oui");
 
 //{ autofold
 }
