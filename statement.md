@@ -11,9 +11,9 @@ public static void main(String[] args) {
 
 ?[Comment ça ?]
 [x]oui
-[]quoi ?
-[]de ?
-[]trois
+-[]quoi ?
+-[]de ?
+-[]trois
 
 //{ autofold
 }
